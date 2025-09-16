@@ -27,7 +27,9 @@ int y = Convert.ToInt32(y1);
 int z = Convert.ToInt32(z1);
 float a = x + y + z;
 Console.WriteLine(a);
+
 Console.WriteLine(x - y);
 float b = x * z;
 Console.WriteLine(a / y);
+
 Console.WriteLine(x % b);
